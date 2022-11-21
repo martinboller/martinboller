@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @martinboller 
 - 📫 Blog: https://blog.infosecworrier.dk
-- 🐘 https://infosec.exchange/@itisiboller
+
 
 <!---
 martinboller/martinboller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

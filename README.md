@@ -1,7 +1,8 @@
 <a rel="me" href="https://infosec.exchange/@itisiboller">Mastodon</a>
 
-- 👋 Hi, I’m @martinboller @itisiboller@infosec.exchange 
-- 📫 You can reach me at https://infosec.exchange/@itisiboller
+- 👋 Hi, I’m @martinboller 
+- 📫 Blog: https://blog.infosecworrier.dk
+- 🐘 https://infosec.exchange/@itisiboller
 
 <!---
 martinboller/martinboller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

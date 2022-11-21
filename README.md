@@ -1,4 +1,6 @@
-<a rel="me" href="https://infosec.exchange/@itisiboller">Mastodon</a>
+<head>
+  <a rel="me" href="https://infosec.exchange/@itisiboller">Mastodon</a>
+</head>
 
 - 👋 Hi, I’m @martinboller 
 - 📫 Blog: https://blog.infosecworrier.dk

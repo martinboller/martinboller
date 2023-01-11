@@ -1,9 +1,9 @@
 <head>
-  <a rel="me" href="https://infosec.exchange/@itisiboller">Mastodon</a>
+  <a rel="me" href="https://infosec.exchange/@itisiboller"></a>
 </head>
 
 - 👋 Hi, I’m @martinboller 
-- 📫 Blog: https://blog.infosecworrier.dk
+- 📫 Blog: https://www.infosecworrier.dk
 
 :sailboat:
 :sailboat:
